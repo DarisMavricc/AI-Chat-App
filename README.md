@@ -1,4 +1,4 @@
-## Simple AI Chatapp.
+## Simple AI ChatApp.
 
 
 To run it you should get your api key at [https://rapidapi.com/farish978/api/ai-chatbot/](https://rapidapi.com/farish978/api/ai-chatbot/) and paste it in your code.
